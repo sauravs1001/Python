@@ -20,6 +20,7 @@ class Human:
         else:
             print("there are %d guys left" % Human.population)
 
+
 per1 = Human("Rohan")
 per1.sayHi()
 per1.howMany()
